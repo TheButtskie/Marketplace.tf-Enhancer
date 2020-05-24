@@ -4,7 +4,7 @@ A free userscript to enhance your Marketplace.tf Dashboard.
 
 It adds the following features to the Dashboard:
 
-*     Item groupings - (Paints, Keys, Taunts, Crates, Misc)
+*   Item groupings - (Paints, Keys, Taunts, Crates, Misc)
 
 
 
