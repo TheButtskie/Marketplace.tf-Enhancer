@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Marketplace.tf+ item Categories
-// @version      0.1
-// @description  Adding item categories to Dashboard items -- easier sorting
-// @author       Buttskie
+// @name         Marketplace.tf-Enhancer
+// @version      1.0.0
+// @description  Adding additional features to Marketplace.tf
+// @author       TheButtskie
 // @include      *://marketplace.tf/dashboard*
 // @match        https://marketplace.tf/dashboard#items
 // @grant        none
