@@ -1,11 +1,16 @@
 // ==UserScript==
-// @name         Marketplace.tf-Enhancer
-// @version      1.0.0
-// @description  Adding additional features to Marketplace.tf
+// @name         Marketplace.tf Enhancer
+// @namespace	 https://github.com/TheButtskie
 // @author       TheButtskie
+// @license      MIT
+// @version      1.0.0
+// @description  Enhances the Marketplace.tf Dashboard.
 // @include      *://marketplace.tf/dashboard*
 // @match        https://marketplace.tf/dashboard#items
 // @grant        none
+// @homepageURL https://github.com/TheButtskie/Marketplace.tf-Enhancer
+// @supportURL  https://github.com/TheButtskie/Marketplace.tf-Enhancer/issues
+// @downloadURL https://raw.githubusercontent.com/TheButtskie/Marketplace.tf-Enhancer/master/code.user.js
 // ==/UserScript==
 
 window.addEventListener('load', function() {
