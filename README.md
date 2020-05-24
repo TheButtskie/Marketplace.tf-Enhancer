@@ -17,3 +17,7 @@ It is free but there is **NO** support. If you want to add functionality, feel f
 [Install Marketplace.tf Enhancer](https://raw.githubusercontent.com/TheButtskie/Marketplace.tf-Enhancer/master/code.user.js)
 
 *Violentmonkey or Tampermonkey is required to install.*
+
+
+**License**
+MIT
