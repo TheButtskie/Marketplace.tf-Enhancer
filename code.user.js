@@ -5,7 +5,7 @@
 // @license      MIT
 // @version      1.0.0
 // @description  Enhances the Marketplace.tf Dashboard.
-// @include      *://marketplace.tf/dashboard*
+// @include      *://marketplace.tf/dashboard#items
 // @match        https://marketplace.tf/dashboard#items
 // @grant        none
 // @homepageURL https://github.com/TheButtskie/Marketplace.tf-Enhancer
