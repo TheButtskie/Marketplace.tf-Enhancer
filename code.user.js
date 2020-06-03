@@ -6,6 +6,7 @@
 // @version      1.0.0
 // @description  Enhances the Marketplace.tf Dashboard.
 // @include      https://marketplace.tf/dashboard#items
+// @include      *://marketplace.tf/dashboard*
 // @match        https://marketplace.tf/dashboard#items
 // @grant        none
 // @homepageURL https://github.com/TheButtskie/Marketplace.tf-Enhancer
@@ -43,5 +44,12 @@ window.addEventListener('load', function() {
 
 	}
 	convertItems();
+
+	var refreshBtn = document.getElementsByClassName('btn btn-primary btn-sm btn-toggle-table')[3];
+	refreshBtn.addEventListener("click", refreshItems);
+
+	function refreshItems() {
+		setTimeout(convertItems, 3000);
+	}
 
 });
